@@ -43,5 +43,20 @@
     "dfu_id": null,
     "exclude_from_batch": false,
     "custom_make_command": null
+  },
+  {
+    "id": "/dev/ttyACM2",
+    "name": "ttyACM2",
+    "profile": null,
+    "method": "serial",
+    "interface": "can0",
+    "baudrate": 250000,
+    "notes": "",
+    "is_katapult": true,
+    "is_bridge": false,
+    "serial_id": null,
+    "dfu_id": null,
+    "exclude_from_batch": false,
+    "custom_make_command": null
   }
 ]
