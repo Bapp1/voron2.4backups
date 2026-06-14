@@ -94,11 +94,3 @@ primary_branch: main
 managed_services: klipper
 
 
-
-[update_manager filamind-flow]
-type: git_repo
-path: ~/filamind-flow
-origin: https://github.com/filamind-app/filamind-flow.git
-primary_branch: main
-managed_services: filamind-flow
-install_script: deploy/install-host.sh
