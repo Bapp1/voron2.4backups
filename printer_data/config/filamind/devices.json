@@ -28,5 +28,20 @@
     "dfu_id": null,
     "exclude_from_batch": false,
     "custom_make_command": null
+  },
+  {
+    "id": "/dev/serial/by-id/usb-Klipper_rp2040_34343433391347D6-if00",
+    "name": "nhk",
+    "profile": null,
+    "method": "serial",
+    "interface": "can0",
+    "baudrate": 250000,
+    "notes": "",
+    "is_katapult": true,
+    "is_bridge": false,
+    "serial_id": null,
+    "dfu_id": null,
+    "exclude_from_batch": false,
+    "custom_make_command": null
   }
 ]
