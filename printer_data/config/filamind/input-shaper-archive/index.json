@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2026-06-15_02-16-29_vibrations",
+    "at": "2026-06-15T02:16:29",
+    "kind": "vibrations",
+    "axis": null,
+    "summary": {
+      "motor_freq": 186.0,
+      "symmetry_pct": 100.0,
+      "recommended_speed": 32.1,
+      "kinematics": "corexy"
+    },
+    "files": [],
+    "size": 0
+  }
+]
