@@ -1,0 +1,17 @@
+{
+  "saved_at": "2026-06-15T09:28:42",
+  "mcus": {
+    "mcu": {
+      "board_id": "octopus-pro",
+      "mcu_id": "stm32f446",
+      "connection": "usb",
+      "components": 14
+    },
+    "nhk": {
+      "board_id": "nitehawk-36",
+      "mcu_id": "rp2040",
+      "connection": "usb",
+      "components": 5
+    }
+  }
+}

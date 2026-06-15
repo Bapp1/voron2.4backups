@@ -2,5 +2,9 @@
   "mcu": {
     "board_id": "octopus-pro",
     "at": "2026-06-15T00:53:12"
+  },
+  "nhk": {
+    "board_id": "nitehawk-36",
+    "at": "2026-06-15T09:28:29"
   }
 }
