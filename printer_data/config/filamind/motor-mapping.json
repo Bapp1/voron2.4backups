@@ -1,5 +1,6 @@
 {
   "extruder": "moons-ms17hd6p420i",
   "stepper_x": "moons-ms17hd6p420i",
-  "stepper_z": "moons-ms17hd6p420i"
+  "stepper_z": "moons-ms17hd6p420i",
+  "stepper_z2": "moons-ms17hd6p420i"
 }
