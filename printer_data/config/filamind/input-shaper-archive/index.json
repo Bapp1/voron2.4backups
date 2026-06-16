@@ -1,5 +1,24 @@
 [
   {
+    "id": "2026-06-16_15-32-17_config_y",
+    "at": "2026-06-16T15:32:17",
+    "kind": "config",
+    "axis": "y",
+    "summary": {
+      "shaper": "mzv",
+      "freq": 39.8,
+      "vibrations_pct": 0,
+      "smoothing": 0.129,
+      "max_accel": 4700,
+      "grade": "B",
+      "score": 84
+    },
+    "files": [
+      "input_shaper.cfg"
+    ],
+    "size": 97
+  },
+  {
     "id": "2026-06-15_02-16-29_vibrations",
     "at": "2026-06-15T02:16:29",
     "kind": "vibrations",
