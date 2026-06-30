@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-30_07-23-48_shaper_y",
+    "at": "2026-06-30T07:23:48",
+    "kind": "shaper",
+    "axis": "y",
+    "summary": {
+      "source_file": "raw_data_y_filamind_y.csv",
+      "recommended_shaper": "zv",
+      "recommended_freq": 41.0,
+      "auto": true
+    },
+    "files": [
+      "raw_data_y_filamind_y.csv"
+    ],
+    "size": 41805418
+  },
+  {
     "id": "2026-06-30_07-07-57_shaper_x",
     "at": "2026-06-30T07:07:57",
     "kind": "shaper",
