@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-30_07-34-14_config",
+    "at": "2026-06-30T07:34:14",
+    "kind": "config",
+    "axis": null,
+    "summary": {
+      "shaper": "2hump_ei",
+      "freq": 83.2
+    },
+    "files": [
+      "input_shaper.cfg"
+    ],
+    "size": 96
+  },
+  {
     "id": "2026-06-30_07-31-39_vibrations",
     "at": "2026-06-30T07:31:39",
     "kind": "vibrations",
