@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-30_07-31-39_vibrations",
+    "at": "2026-06-30T07:31:39",
+    "kind": "vibrations",
+    "axis": null,
+    "summary": {
+      "motor_freq": 184.7,
+      "symmetry_pct": 96.0,
+      "recommended_speed": 30.6,
+      "kinematics": "corexy"
+    },
+    "files": [],
+    "size": 0
+  },
+  {
     "id": "2026-06-30_07-23-48_shaper_y",
     "at": "2026-06-30T07:23:48",
     "kind": "shaper",
