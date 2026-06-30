@@ -115,11 +115,3 @@ origin: https://github.com/PEEKYPAUL/moongate.git
 primary_branch: master
 managed_services: moonraker
 install_script: klipper-plugin/update.sh
-
-[update_manager filamind-3d]
-type: git_repo
-path: ~/filamind-3d
-origin: https://github.com/filamind-app/filamind-3d.git
-primary_branch: main
-managed_services: filamind-3d
-install_script: deploy/install-agent.sh
