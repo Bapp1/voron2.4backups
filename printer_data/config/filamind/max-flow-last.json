@@ -1,11 +1,11 @@
 {
-  "at": "2026-06-17 13:40:18",
-  "max_flow_mm3s": 17.5,
-  "slip_flow": 20.0,
+  "at": "2026-06-30 06:05:25",
+  "max_flow_mm3s": 15.0,
+  "slip_flow": 17.5,
   "recommend": {
-    "max": 17.5,
-    "conservative": 14.0,
-    "balanced": 15.8
+    "max": 15.0,
+    "conservative": 12.0,
+    "balanced": 13.5
   },
   "driver": "tmc2209",
   "method": "accel"
