@@ -2,7 +2,7 @@
   {
     "id": "beacon",
     "name": "beacon",
-    "profile": "nitehawk-36",
+    "profile": null,
     "method": "serial",
     "interface": "can0",
     "baudrate": 250000,
