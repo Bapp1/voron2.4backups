@@ -17,7 +17,7 @@
   {
     "id": "/dev/serial/by-id/usb-Klipper_stm32f446xx_38002F001750535556323420-if00",
     "name": "mcu",
-    "profile": "Octopus Pro 1.1",
+    "profile": "octopus pro",
     "method": "serial",
     "interface": "can0",
     "baudrate": 250000,
