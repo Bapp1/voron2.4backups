@@ -1,0 +1,8 @@
+{
+  "/dev/serial/by-id/usb-Klipper_rp2040_34343433391347D6-if00": {
+    "profile": "nitehawk-36",
+    "version": "v0.13.0-701-g7e64fc84",
+    "commit": "7e64fc84219b",
+    "flashed_at": "2026-07-01 23:17:44"
+  }
+}
