@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-13_01-41-03_shaper_x",
+    "at": "2026-07-13T01:41:03",
+    "kind": "shaper",
+    "axis": "x",
+    "summary": {
+      "source_file": "raw_data_x_filamind_x.csv",
+      "recommended_shaper": "2hump_ei",
+      "recommended_freq": 79.0,
+      "auto": true
+    },
+    "files": [
+      "raw_data_x_filamind_x.csv"
+    ],
+    "size": 41649494
+  },
+  {
     "id": "2026-06-30_07-34-52_config",
     "at": "2026-06-30T07:34:52",
     "kind": "config",
